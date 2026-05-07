@@ -1,6 +1,6 @@
 # lovstudio:xbti-gallery
 
-![Version](https://img.shields.io/badge/version-1.0.1-CC785C)
+![Version](https://img.shields.io/badge/version-1.0.2-CC785C)
 
 Browse all community-created BTI personality tests at [xbti.lovstudio.ai](https://xbti.lovstudio.ai).
 
