@@ -11,7 +11,7 @@ license: MIT
 compatibility: Requires `gh` CLI for listing cases.
 metadata:
   author: lovstudio
-  version: "1.0.0"
+  version: "1.0.1"
   tags: bti personality-test gallery xbti
 ---
 
