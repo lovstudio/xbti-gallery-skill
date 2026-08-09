@@ -1,5 +1,5 @@
 ---
-name: lovstudio-xbti-gallery
+name: sgc-xbti-gallery
 category: xBTI
 tagline: "Browse all community-created BTI personality tests at xbti.lovstudio.ai."
 description: >
@@ -57,4 +57,4 @@ except:
 "
 ```
 
-If no cases exist, tell the user: "Gallery 还没有案例，用 `/lovstudio-xbti-creator` 创建一个并提交吧！"
+If no cases exist, tell the user: "Gallery 还没有案例，用 `/sgc-xbti-creator` 创建一个并提交吧！"

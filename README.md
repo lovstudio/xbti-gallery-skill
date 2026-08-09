@@ -1,4 +1,4 @@
-# lovstudio-xbti-gallery
+# sgc-xbti-gallery
 
 ![Version](https://img.shields.io/badge/version-1.0.2-CC785C)
 
@@ -19,7 +19,7 @@ Requires: `gh` CLI
 ```
 Command                     Output
 ───────                     ──────
-/lovstudio-xbti-gallery  →  Opens Gallery in browser
+/sgc-xbti-gallery  →  Opens Gallery in browser
                              Lists all available BTI variants
                              e.g. lbti, fbti, dbti...
 ```
@@ -29,7 +29,7 @@ Command                     Output
 Invoke in Claude Code:
 
 ```
-/lovstudio-xbti-gallery
+/sgc-xbti-gallery
 ```
 
 Or describe what you want:
@@ -41,7 +41,7 @@ Show me available BTI tests
 
 ## Related
 
-- [lovstudio-xbti-creator](../lovstudio-xbti-creator/) — Create your own BTI personality test
+- [sgc-xbti-creator](../sgc-xbti-creator/) — Create your own BTI personality test
 
 ## License
 
