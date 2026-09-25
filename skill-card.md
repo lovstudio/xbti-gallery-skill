@@ -1,4 +1,4 @@
-# XBTI 案例浏览 Skill Card
+# XBTI 图鉴 · XBTI Gallery · Skill Card
 
 ## Description
 
@@ -38,7 +38,7 @@ MIT
 
 ## Skill Version
 
-1.0.3
+1.0.5
 
 ## Ethical Considerations
 

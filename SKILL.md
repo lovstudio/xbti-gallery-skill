@@ -8,7 +8,7 @@ depends_on:
 - lov-branding-consistency
 metadata:
   author: contributors
-  version: 1.0.3
+  version: 1.0.5
   tags:
   - bti
   - personality-test
@@ -18,7 +18,7 @@ metadata:
   card_standard: lovstudio/skill-card/v1
 ---
 
-# XBTI 案例浏览
+# XBTI 图鉴 · XBTI Gallery
 
 从已核实的社区地址或仓库列出可访问的 XBTI 人格测试案例。
 
